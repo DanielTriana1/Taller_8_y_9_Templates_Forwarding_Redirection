@@ -1,0 +1,19 @@
+html,body{
+height: 100%;
+}
+body{
+padding-top: 50px;
+    background-color: #B0C3DE;
+}
+.container{
+    background-color: rgba(115,115,115,0.38);
+    border-radius: 30px;
+
+
+}
+h1{
+    text-align: center;
+}
+input {
+width: 25%;
+}
